@@ -1,0 +1,16 @@
+
+// localhost
+GET http://localhost:10000/contacts
+
+GET http://localhost:10000/contacts/6326567a07ec9687f1155195
+
+GET http://localhost:10000/contacts/632656a007ec9687f1155196
+
+GET http://localhost:10000/contacts/632656af07ec9687f1155197
+
+GET http://localhost:10000/contacts/63265c7f07ec9687f1155198
+
+// render
+
+
+
